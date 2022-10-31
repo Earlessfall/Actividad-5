@@ -6,6 +6,7 @@ La suma se le puede describir cómo el recorrido a uno o varios campos del conoc
 Está dividida en tres partes: la primera parte habla de la naturaleza de Dios, la trinidad, los ángeles, la voluntad, el alma y la creación. La segunda parte es sobre el retorno del ser humano hacía Dios a través de la explicación de la moral general y la moral especial (la naturaleza de la gracia divina y el espíritu santo cómo dador de esta gracia). Este retornó termina en la conclusión de la necesidad de un factor externó el cuál se explicará en la tercera parte a través de la imagen de Jesucristo. En esta parte estudia al Cristo reencarnado como factor externo de la salvación, luego pasa al estudio del sacramento para dejar el final de su estudio sin terminar.
 
 **Lista de características graficas del manuscrito**
+
 -•	La topografía de la letra está centrada en un estilo gótico, esto aparte de darle una apariencia más presentable llama mucho la atención del lector por lo que utilizar este tipo de letra puede ayudarme a darle una mejor presentación visual a mi suma.
 -•	La división de párrafos está especialmente detallada gracias al remarcable tamaño de la primera letra de cada párrafo, con esto puedo separar los temas e ideas de cada párrafo de manera más ordenada y llamativa
 -•	En la parte de los lados de cada párrafo se encuentra una división de párrafos en latín, esto genera más orden en cada línea y ayuda a encontrar las ideas de los párrafos utilizando y memorizando esta división.
